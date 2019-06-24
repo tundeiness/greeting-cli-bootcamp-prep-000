@@ -1,4 +1,4 @@
- minut# Greeting Cli
+.rb in  minut# Greeting Cli
 
 ## Objectives
 
